@@ -256,7 +256,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 	background-color: #000000;
 }
 .prt_home_wrapper{
-	background-image:url(http://placehold.it/1920X1080);
+	background-image:url(https://images.unsplash.com/photo-1518821703881-9da5a9f42038?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80);
 	background-position: center center;
 	background-repeat:no-repeat;
 	background-size:cover;
@@ -270,7 +270,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 	font-size:150px;
 	color: #ffffff;
 	font-weight:bold;
-	background: url(http://placehold.it/650X800) no-repeat;
+	background: url(https://images.unsplash.com/photo-1615799998603-7c6270a45196?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1896&q=80) no-repeat;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
     background-size: cover;
