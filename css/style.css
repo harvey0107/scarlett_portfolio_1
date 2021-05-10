@@ -901,13 +901,13 @@ input:focus, textarea:focus, select:focus, button:focus {
     transition: all 0.3s;
 }
 .prt_contact_details_box.details_box1{
-	background-image:url(https://i.imgur.com/ZFq0uyX.jpg);
+	background-image:url(https://i.imgur.com/ojDIAo6s.jpg);
 }
 .prt_contact_details_box.details_box2{
-	background-image:url(https://i.imgur.com/ZFq0uyX.jpg);
+	background-image:url(https://i.imgur.com/ojDIAo6s.jpg);
 }
 .prt_contact_details_box.details_box3{
-	background-image:url(https://i.imgur.com/ZFq0uyX.jpg);
+	background-image:url(https://i.imgur.com/ojDIAo6s.jpg);
 }
 /*---------- Services css Start -------*/
 .prt_services_wrapper{
@@ -1073,7 +1073,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 .prt_couter_wrapper{
     display: inline-block;
     width: 100%;
-	background-image:url(http://placehold.it/1920X600);
+	background-image:url(https://i.imgur.com/LWLMySS.png);
 	background-position:center center;
 	background-repeat:no-repeat;
 	background-size:cover;
