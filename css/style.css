@@ -901,13 +901,13 @@ input:focus, textarea:focus, select:focus, button:focus {
     transition: all 0.3s;
 }
 .prt_contact_details_box.details_box1{
-	background-image:url(https://i.imgur.com/ojDIAo6s.jpg);
+	background-image:url(https://imgur.com/ojDIAo6);
 }
 .prt_contact_details_box.details_box2{
-	background-image:url(https://i.imgur.com/ojDIAo6s.jpg);
+	background-image:url(https://imgur.com/ojDIAo6);
 }
 .prt_contact_details_box.details_box3{
-	background-image:url(https://i.imgur.com/ojDIAo6s.jpg);
+	background-image:url(https://imgur.com/ojDIAo6);
 }
 /*---------- Services css Start -------*/
 .prt_services_wrapper{
