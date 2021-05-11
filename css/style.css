@@ -315,7 +315,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 	position:absolute;
 	text-transform:uppercase;
 	color:#e1e1e1;
-	font-size:20px;
+	font-size:18px;
 	margin:0px auto;
 	z-index:1;
 	font-weight:900;
