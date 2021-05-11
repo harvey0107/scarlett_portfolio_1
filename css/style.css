@@ -315,10 +315,10 @@ input:focus, textarea:focus, select:focus, button:focus {
 	position:absolute;
 	text-transform:uppercase;
 	color:#e1e1e1;
-	font-size:18px;
+	font-size:20px;
 	margin:0px auto;
 	z-index:1;
-	font-weight:500;
+	font-weight:700;
 	letter-spacing:5px;
 	-webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
